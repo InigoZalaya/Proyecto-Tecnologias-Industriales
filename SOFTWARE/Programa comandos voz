@@ -1,2 +1,9 @@
-EDGE Impulse para el tratamiento y procesado de sonidos
 Thingsboard para la monitorización de datos del tiempo mediante la API de openweather
+
+EDGE Impulse para el tratamiento y procesado de sonidos
+
+Crear la linrería a través de Edge y migrarla al dispositivo
+
+Mediante PUTTY utilizar el comando:
+  AT+RUNIMPULSE
+para empezar con la captación de datos 
