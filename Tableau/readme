@@ -5,6 +5,4 @@ https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_A
 
 node red desde moodle:
 
-El documento Ascensore Ermua.twb es el programa creado en Tableau que utiliza tanto los datos extraidos del excel de los comandos de voz 
-como los del excel "Datos_ascensores_dic_2021" proporcionado por Iván Arakistain en clase. Utilizando estos datos se ha creado un [Dashboard](https://public.tableau.com/views/AscensoresErmua/DIGITALTWINDELOSASCENSORESPUBLICOSDEERMUA?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no#1)
-que se ha compartido en Tableau Public
+El documento Ascensore Ermua.twb es el programa creado en Tableau que utiliza tanto los datos extraidos del excel de los comandos de voz como los del excel "Datos_ascensores_dic_2021" proporcionado por Iván Arakistain en clase. Utilizando estos datos se ha creado un [Dashboard](https://public.tableau.com/views/AscensoresErmua/DIGITALTWINDELOSASCENSORESPUBLICOSDEERMUA?:language=es-ES&publish=yes&:display_count=n&:origin=viz_share_link:showVizHome=no#1) que se ha compartido en Tableau Public
