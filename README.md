@@ -27,6 +27,7 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
      ![alt text](https://siliconlabs-h.assetsadobe.com/is/image//content/dam/siliconlabs/images/products/Bluetooth/thunderboard/thunderboard-bg22-sltb010a.jpg "thunderboard") 
 * ## Desarrollo web.
      Se ha creado una página web donde se puede observar todo lo realizado en el proyecto, tanto los distintos diseños CAD como las distintas plataformas que se han utilizado.
+     ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/Página web/WebPage screenshot.png?raw=true)
 
 * ## Dashboard
      Se ha diseñado un Dashboard mediante la plataforma Tableau donde recopila por medio de diferentes gráficas todos los datos recogidos por el sensor.
