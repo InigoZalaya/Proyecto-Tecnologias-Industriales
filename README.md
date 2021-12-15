@@ -1,5 +1,5 @@
-# Proyecto-TecnologIas-Industriales
-## Project Description
+# Proyecto Tecnologías Industriales
+## Descripción del Proyecto
 
 Proyecto realizado por el equipo formado por Luis, Xabi e Iñigo para la asignatura Tecnologias Industriales, en el Master Digital Manufacturing de IMH.
 
