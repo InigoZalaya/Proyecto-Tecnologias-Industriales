@@ -2,7 +2,7 @@ Archivos ZIP de los diseños CAD de los ascensores de Ermua y a su vez un vídeo
 
 Se pueden visualizar dichos diseños en la página de Sketchfab, en los siguientes links:
 
-* ## Ascensor Goienkale-San Isidro --> https://skfb.ly/orECA
+* ## [Ascensor Goienkale-San Isidro](https://skfb.ly/orECA)
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/Ascensor%20Goienkale-San%20Isidro.jpg)
 * ## Ascensor Aldapa-Ongarai --> https://skfb.ly/orEDx
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/Ascensor%20Aldapa-Ongarai.jpg)
