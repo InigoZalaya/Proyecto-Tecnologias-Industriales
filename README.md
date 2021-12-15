@@ -22,7 +22,7 @@ Con todo lo explicado anteriormente, todo lo aprendido durante el curso se ha po
 Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologías para llevar a cabo el proyecto:
 
 * ## Programación de sistemas embebidos
-jhgfd
+     Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT              Thunderboard Sense 2, dispositivo que tiene ntegrados sensores de audio, acelerometro, etc.
 * ## Desarrollo web y Dashboard
 * ## Modelos de Inteligencia Artificial
 * ## Disño 3D de los ascensores ubicados en Ermua
