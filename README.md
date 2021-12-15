@@ -4,9 +4,9 @@
 Proyecto realizado por el equipo formado por Luis, Xabi e Iñigo para la asignatura Tecnologias Industriales, en el Master Digital Manufacturing de IMH.
 
 En este proyecto se ha realizado un desarrollo IoT práctico y real, donde se han efectuado diferentes trabajos como:
-     * El diseño CAD de los ascensores de Ermua.
-     * Inteligencia Artificial --> Reconocimiento de voz.
-     * Desarrollo de un Dashboard y una página web.
+* El diseño CAD de los ascensores de Ermua.
+* Inteligencia Artificial --> Reconocimiento de voz.
+* Desarrollo de un Dashboard y una página web.
 
 * [Digital Twin Ermua](https://ermuaio.carrd.co/)
 
