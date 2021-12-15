@@ -38,6 +38,8 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
      Para desarrollar la inteligencia artificial se han utilizado las plataforma Edge Impulse y Machine Learning con el fin de diseñar un sistema capaz de identificar comandos de voz. Node-RED??
 * ### Diseño 3D de los ascensores ubicados en Ermua
      Para poder reflejar el desarrollo del proyecto de una manera más visible.
+     
+     ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/Ascensores%203D.jpg)
 
 * [Digital Twin Ermua](https://ermuaio.carrd.co/)
 
