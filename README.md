@@ -25,12 +25,16 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
      Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT Thunderboard Sense 2, dispositivo que tiene integrados sensores de audio, acelerometro, etc.
      
      ![alt text](https://siliconlabs-h.assetsadobe.com/is/image//content/dam/siliconlabs/images/products/Bluetooth/thunderboard/thunderboard-bg22-sltb010a.jpg "thunderboard") 
-* ## Desarrollo web y Dashboard
-     Se ha creado una página web donde se puede observar todo lo realizado en el proyecto. A su vez, se ha diseñado un Dashboard mediante la plataforma Tableau donde recopila mediante diferentes gráfics todos los datos recogidos por el sensor.
+* ## Desarrollo web.
+     Se ha creado una página web donde se puede observar todo lo realizado en el proyecto, tanto los distintos diseños CAD como las distintas plataformas que se han utilizado.
+
+* ## Dashboard
+     Se ha diseñado un Dashboard mediante la plataforma Tableau donde recopila por medio de diferentes gráficas todos los datos recogidos por el sensor.
      
 * ## Modelos de Inteligencia Artificial
+     Para desarrollar la inteligencia artificial se han utilizado las plataforma Edge Impulse y Machine Learning con el fin de diseñar un sistema capaz de identificar comandos de voz. Node-RED??
 * ## Disño 3D de los ascensores ubicados en Ermua
-
+     Para poder reflejar el desarrollo del proyecto de una manera más visible
 
 * [Digital Twin Ermua](https://ermuaio.carrd.co/)
 
