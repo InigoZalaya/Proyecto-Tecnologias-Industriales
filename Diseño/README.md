@@ -6,4 +6,5 @@ Ascensor Goienkale-San Isidro --> https://skfb.ly/orECA
 Ascensor Aldapa-Ongarai --> https://skfb.ly/orEDx
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/Ascensor%20Aldapa-Ongarai.jpg)
 Ascebsor San Pelayo --> https://sketchfab.com/3d-models/maqueta-ascensor-ermua-b91a3d6e2c444c1ba614a728edb0df41
+![alt text]
 Por otra parte, se ha adjuntado los links de los diseño para poder visualizar mediante AR.js studio.
