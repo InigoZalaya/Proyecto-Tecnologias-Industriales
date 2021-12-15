@@ -23,7 +23,7 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
 
 * ## Programación de sistemas embebidos
      Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT              Thunderboard Sense 2, dispositivo que tiene integrados sensores de audio, acelerometro, etc.
-     ![alt text](https://www.mouser.es/images/marketingid/2017/img/138687663_Silicon-Labs_Thunderboard-Sense-2-IoT-Development-Starter-Kit.png?v=032521.0213"full-slider") 
+     ![alt text](https://www.mouser.es/images/marketingid/2017/img/138687663_Silicon-Labs_Thunderboard-Sense-2-IoT-Development-Starter-Kit.png "thunderboard") 
 * ## Desarrollo web y Dashboard
 * ## Modelos de Inteligencia Artificial
 * ## Disño 3D de los ascensores ubicados en Ermua
