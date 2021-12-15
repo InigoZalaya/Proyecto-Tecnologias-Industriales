@@ -22,8 +22,8 @@ Con todo lo explicado anteriormente, todo lo aprendido durante el curso se ha po
 Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologías para llevar a cabo el proyecto:
 
 * ## Programación de sistemas embebidos
-     Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT              Thunderboard Sense 2, dispositivo que tiene ntegrados sensores de audio, acelerometro, etc.
-     ![alt text](https://www.mouser.es/images/marketingid/2017/img/138687663_Silicon-Labs_Thunderboard-Sense-2-IoT-Development-Starter-Kit.png?v=032521.0213) 
+     Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT              Thunderboard Sense 2, dispositivo que tiene integrados sensores de audio, acelerometro, etc.
+     ![alt text](https://www.mouser.es/images/marketingid/2017/img/138687663_Silicon-Labs_Thunderboard-Sense-2-IoT-Development-Starter-Kit.png?v=032521.0213"full-slider") 
 * ## Desarrollo web y Dashboard
 * ## Modelos de Inteligencia Artificial
 * ## Disño 3D de los ascensores ubicados en Ermua
