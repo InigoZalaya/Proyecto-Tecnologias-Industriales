@@ -23,6 +23,7 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
 
 * ## Programación de sistemas embebidos
      Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT              Thunderboard Sense 2, dispositivo que tiene ntegrados sensores de audio, acelerometro, etc.
+     ![alt text] 
 * ## Desarrollo web y Dashboard
 * ## Modelos de Inteligencia Artificial
 * ## Disño 3D de los ascensores ubicados en Ermua
