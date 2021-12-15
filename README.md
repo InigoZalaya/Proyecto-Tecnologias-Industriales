@@ -21,13 +21,15 @@ Con todo lo explicado anteriormente, todo lo aprendido durante el curso se ha po
 
 Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologías para llevar a cabo el proyecto:
 
-* ### Programación de sistemas embebidos
+* ## Programación de sistemas embebidos
      Para la programación del reconocimiento de voz, se ha utilizado el kit de desarrollo IoT Thunderboard Sense 2, dispositivo que tiene integrados sensores de audio, acelerometro, etc.
      
      ![alt text](https://siliconlabs-h.assetsadobe.com/is/image//content/dam/siliconlabs/images/products/Bluetooth/thunderboard/thunderboard-bg22-sltb010a.jpg "thunderboard") 
-* ### Desarrollo web y Dashboard
-* ### Modelos de Inteligencia Artificial
-* ### Disño 3D de los ascensores ubicados en Ermua
+* ## Desarrollo web y Dashboard
+     Se ha creado una página web donde se puede observar todo lo realizado en el proyecto. A su vez, se ha diseñado un Dashboard mediante la plataforma Tableau donde recopila mediante diferentes gráfics todos los datos recogidos por el sensor.
+     
+* ## Modelos de Inteligencia Artificial
+* ## Disño 3D de los ascensores ubicados en Ermua
 
 
 * [Digital Twin Ermua](https://ermuaio.carrd.co/)
