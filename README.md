@@ -32,7 +32,7 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
 * ### Dashboard
      Se ha diseñado un Dashboard mediante la plataforma Tableau donde recopila por medio de diferentes gráficas todos los datos recogidos por el sensor.
      
-     ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Tableau%20screenshot.png)
+     ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Dashboard.PNG)
      
 * ### Modelos de Inteligencia Artificial
      Para desarrollar la inteligencia artificial se han utilizado las plataforma Edge Impulse y Machine Learning con el fin de diseñar un sistema capaz de identificar comandos de voz. Node-RED??
