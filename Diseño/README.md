@@ -1,6 +1,6 @@
 # Diseño de los modelos 3D
 
-Para visualizar los ascensores, se decidió diseñar modelos 3D con movimiento para cada uno de ellos.
+Para visualizar los ascensores, se decidió diseñar modelos 3D en CAD y añadirles características de movimiento para cada uno de ellos.
 Se incluyen archivos ZIP de los diseños CAD de los ascensores de Ermua y a su vez un vídeo de movimiento de cada uno.
 
 Se pueden visualizar dichos diseños en la página de Sketchfab, en los siguientes links:
