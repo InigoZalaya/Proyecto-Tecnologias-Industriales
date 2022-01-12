@@ -1,4 +1,4 @@
-## Descripción del proyecto
+# Diseño Página web
 
 Página web diseñada para el proyecto realizado por el equipo formado por Luis, Xabi e Iñigo para la asignatura Tecnologias Industriales, en el Master Digital Manufacturing de IMH.
 
