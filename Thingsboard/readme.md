@@ -6,7 +6,7 @@ Creación de un dashboard para datos metereológicos de Ermua mediante la plataf
 
 * Se comenzó por un [tutorial](https://thingsboard.io/docs/getting-started-guides/helloworld/) de Thingsboard para empezar a entender el entorno y sus funcionalidades.
 
-* Una vez realizados los primeros pasos, se crean los diferentes grupos de Devices, Assets y Customers (En este caso son los ascensores), ya que el usuario es público para poder usarlo públicamente. 
+* Una vez realizados los primeros pasos, se crean los diferentes grupos de Devices, Assets y Customers (en este caso son los ascensores) siguiendo los pasos del [tutorial propio de TB](https://thingsboard.io/docs/user-guide/rule-engine-2-0/tutorials/get-weather-using-rest-api-call/) para utilizar una API, ya que el usuario es público para poder usarlo públicamente. 
 
 * Para obtener los datos metereológicos, se utiliza la API de [OpenWeatherApp](https://openweathermap.org/api) y poder recibir datos en tiempo real para mostrarlos en el dashboard.
 
