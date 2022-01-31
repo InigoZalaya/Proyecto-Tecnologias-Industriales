@@ -13,3 +13,5 @@ Creación de un dashboard para datos metereológicos de Ermua mediante la plataf
 * Finalmente, se añaden y diseñan los dashboard insertando widgets interactivos con datos en tiempo real y utilizando otra API de openStreetMap para el mapa. 
 
 # [Thingsboard Dashboard](https://demo.thingsboard.io/dashboard/488534c0-5540-11ec-a53b-97baf75c7cfe?publicId=a8142020-553d-11ec-a53b-97baf75c7cfe)
+
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Thingsboard/tb.JPG)
