@@ -1,7 +1,18 @@
-Crear la librería a través de Edge y migrarla al dispositivo
+# Edge-Impulse
 
-Mediante PUTTY utilizar el comando:
-  AT+RUNIMPULSE
-para empezar con la captación de datos 
+Edge-Impulse es una plataforma de desarrollo para *Machine Leraning* en dispositivos edge, gratuita para los desarrolladores y de confianza para las empresas.
 
-Alternativa para obr logs
+![alt text]()
+
+## Reconocimiento Comandos de Voz
+
+Se ha utilizado Edge-Impulse para crear la funcionalidad de reconocer comandos de voz introducidos mediante un sensor de audio. 
+
+* ### El [proyecto](https://studio.edgeimpulse.com/public/65423/latest) creado a través de Edge Impulse.
+* Pasos
+* #Crear la librería en Edge Impulse y migrarla al dispositivo
+* ##Mediante PUTTY utilizar el comando: AT+RUNIMPULSE para empezar con la captación de datos 
+
+* ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
+
+![alt text]()
