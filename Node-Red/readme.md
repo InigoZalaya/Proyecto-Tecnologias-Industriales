@@ -2,7 +2,7 @@
 
 Node-Red es una herramienta de desarrollo basada en flujo para programación visual, para conectar dispositivos de hardware, API y servicios en línea como parte de Internet of Things.
 
-![alt text]https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/Node-red-icon.png
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/Node-red-icon.png)
 
 ## No
 
@@ -14,4 +14,4 @@ Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adq
 
 También se han incluido las imagenes utilizadas en el Dashboard
 
-![alt text]https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/nodered.png
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/nodered.png)
