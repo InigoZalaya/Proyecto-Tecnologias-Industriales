@@ -1,7 +1,7 @@
 # Diseño Dashboard Thingsboard
 
 Creación de un dashboard para datos metereológicos de Ermua mediante la plataforma IoT Thingsboard.
-![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Thingsboard/027a8900-6d10-11e9-8e34-4c5af9d7106f.gif)
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Thingsboard/027a8900-6d10-11e9-8e34-4c5af9d7106f.gif = 50x50)
 
 ## Pasos
 
