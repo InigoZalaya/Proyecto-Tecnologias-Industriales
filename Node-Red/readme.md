@@ -12,6 +12,6 @@ Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adq
 
 * ### El diseño del flujo [Node red](https://8tomf0.stackhero-network.com/admin/#flow/e5135e566cac99ad) creado desde el link de Moodle.
 
-También se han incluido las imagenes utilizadas en el Dashboard
+Se incluye la imagen del diseño del flujo y nodos.
 
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/nodered.png)
