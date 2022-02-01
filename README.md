@@ -35,7 +35,9 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
      ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Dashboard.PNG)
      
 * ### Modelos de Inteligencia Artificial
-     Para desarrollar la inteligencia artificial se han utilizado las plataforma Edge Impulse y Machine Learning con el fin de diseñar un sistema capaz de identificar comandos de voz. Node-RED??
+     Para desarrollar la funcionalidad de inteligencia artificial se ha utilizado las plataforma Edge Impulse para la aplicación del Machine Learning con el fin de diseñar un sistema capaz de identificar comandos de voz.
+     ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge.JPG)
+     
 * ### Diseño 3D de los ascensores ubicados en Ermua
      Para poder reflejar el desarrollo del proyecto de una manera más visible.
      
