@@ -13,3 +13,6 @@ Se pueden visualizar dichos diseños en la página de Sketchfab, en los siguient
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/Ascensor%20San%20Pelayo.jpg)
 
 Por otra parte, se ha adjuntado los html de los diseños para poder visualizar mediante AR.js studio.
+
+* [Ascensor Goienkale](AR.js studio Aldapa-Ongarai.html)
+* [Ascensor Goienkale](AR.js studio Goienkale San Isidro.html)
