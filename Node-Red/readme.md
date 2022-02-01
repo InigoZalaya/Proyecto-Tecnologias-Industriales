@@ -4,7 +4,7 @@ Node-Red es una herramienta de desarrollo basada en flujo para programación vis
 
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/Node-red-icon.png)
 
-## No
+## Diseño
 
 Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adquisición, procesamiento y envío de comandos de vox
 
