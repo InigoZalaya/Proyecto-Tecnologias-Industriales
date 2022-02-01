@@ -32,6 +32,7 @@ La creación del impulso se puede dividir en tres pasos: primero establecer el t
 
 *  Se crea la librería en Edge Impulse la cual se migra al dispositivo y mediante PUTTY utilizamos el comando AT+RUNIMPULSE para empezar con la captación de datos. Finalmente se comprobó que la aplicación funciona correctamente para los comandos con más samples, ya que para otros se confundía y no distingue con mucha exactitud entre unos y otros.
 
-* ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
+* #### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) generado con los comandos de voz en Drive.
 
+*  En la siguiente imaagen se muestra el rendimiento del modelo de manera visual con todos los tipos de samples.
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge.JPG)
