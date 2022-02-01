@@ -13,7 +13,7 @@ Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adq
  *  Primero se crea un flujo sencillo para empezar a simular valores de probabilidad para los comandos de voz. El primer nodo genera la estructura en formato *.json* con el formato de los datos de los comandos de voz, para luego ser procesados.
  *  Mediante el nodo *function* se generan aleatoriamente todos los valores de los comandos de voz, asignando un valor entre 70-90% de probabilidad de acierto del reconocimiento de voz.
 *   Dichos valores se envían a través de la http request fuera de Node-Red. Mediante un formulario y una hoja excel se guardan automáticamente en Google Drive.
-*   
+   
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Captura.JPG)
 
  #### Se incluye la imagen del diseño completo del flujo y nodos.
