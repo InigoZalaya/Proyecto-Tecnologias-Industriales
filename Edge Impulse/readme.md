@@ -26,7 +26,7 @@ La creación del impulso se puede dividir en tres pasos: primero establecer el t
 *  Como tercer paso, Con todos los datos procesados es hora de empezar a entrenar una red neuronal, *NN Classifier*. La red que estamos entrenando tomará el MFCC como entrada y tratará de asignarlo a una de las tres clases: la palabra clave, el ruido o lo desconocido. 
 
 * #### Como resultado de modell se consigue el siguiente rendimiento:
-![alt text]
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/train.png)
 
 * ### Crear la librería en Edge Impulse y migrarla al dispositivo
 * ### Mediante PUTTY utilizar el comando: AT+RUNIMPULSE para empezar con la captación de datos 
