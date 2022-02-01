@@ -8,10 +8,12 @@ Node-Red es una herramienta de desarrollo basada en flujo para programación vis
 
 Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adquisición, procesamiento y envío de comandos de vox
 
-* ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
+ ### El diseño del flujo [Node red](https://8tomf0.stackhero-network.com/admin/#flow/e5135e566cac99ad) creado desde el link de Moodle.
 
-* ### El diseño del flujo [Node red](https://8tomf0.stackhero-network.com/admin/#flow/e5135e566cac99ad) creado desde el link de Moodle.
-
-Se incluye la imagen del diseño del flujo y nodos.
+ #### Se incluye la imagen del diseño del flujo y nodos.
 
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/nodered.png)
+
+*   Donde se simula que los comandos de voz entran por los distintos ascensores, mediante el nodo *function* se generan aleaotiamente dichos comandos de voz, asignando un valor entre 70-90 de probabilidad de acierto de reconocimiento de voz.
+*   Dichos valores se envían a través de la http request y mediante un formulario y una hoja excel se guardan automáticamente en Drive.
+ ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
