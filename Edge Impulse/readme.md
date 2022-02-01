@@ -11,7 +11,7 @@ Se ha utilizado Edge-Impulse para crear la funcionalidad de reconocer comandos d
 * ## El [proyecto creado](https://studio.edgeimpulse.com/public/65423/latest) a través de Edge Impulse.
 * ### Los pasos seguidos en Edge Impulse son los siguientes
 
--  lo primero es
+  lo primero es
 
 * ### Crear la librería en Edge Impulse y migrarla al dispositivo
 * ### Mediante PUTTY utilizar el comando: AT+RUNIMPULSE para empezar con la captación de datos 
