@@ -14,6 +14,6 @@ Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adq
 
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Node-Red/nodered.png)
 
-*   Donde se simula que los comandos de voz entran por los distintos ascensores, mediante el nodo *function* se generan aleaotiamente dichos comandos de voz, asignando un valor entre 70-90 de probabilidad de acierto de reconocimiento de voz.
+*   Donde se simula que los comandos de voz entran por los distintos ascensores, mediante el nodo *function* se generan aleaotiamente dichos comandos de voz, asignando un valor entre 70-90% de probabilidad de acierto del reconocimiento de voz.
 *   Dichos valores se envían a través de la http request y mediante un formulario y una hoja excel se guardan automáticamente en Drive.
- ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
+ #### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) creado a partir de los comandos de voz aleatorios de Node-Red.
