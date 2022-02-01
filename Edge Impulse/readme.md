@@ -20,7 +20,7 @@ La creación del impulso se puede dividir en tres pasos: primero establecer el t
 *  Los features creados son los siguientes:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge3.png)
 
-* *
+
 *  Una visualización de los samples es la siguiente:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge2.png)
 
