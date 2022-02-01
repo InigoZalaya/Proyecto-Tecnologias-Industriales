@@ -20,16 +20,17 @@ La creación del impulso se puede dividir en tres pasos: primero establecer el t
 * #### Los features creados son los siguientes:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge3.png)
 
-* #### Una visualización de los samples es la siguiente:
+* #### En la siguiente imagen se muestra una visualización de los samples:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge2.png)
 
 *  Como tercer paso, Con todos los datos procesados es hora de empezar a entrenar una red neuronal, *NN Classifier*. La red que estamos entrenando tomará el MFCC como entrada y tratará de asignarlo a una de las tres clases: la palabra clave, el ruido o lo desconocido. 
 
-* #### Como resultado de modell se consigue el siguiente rendimiento:
+* #### Como resultado de modelo se consigue el siguiente rendimiento:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/train.png)
 
-* ### Crear la librería en Edge Impulse y migrarla al dispositivo
-* ### Mediante PUTTY utilizar el comando: AT+RUNIMPULSE para empezar con la captación de datos 
+*  Una vez creado y analizado todo, es hora de probar la funcionalidad mediante un dispositivo externo. En nuestro caso, utilizamos la SiLabs Thunderboard Sense 2 y su sensor de audio para captar nuestros comandos de voz en tiempo real. Edge Impulse empaqueta el impulso completo, desde el código de procesamiento de la señal hasta el modelo entrenado, y lo desplegamos en nuestro dispositivo. Esto garantiza que el impulso se ejecute con baja latencia y sin requerir una conexión de red.
+
+*  Se crea la librería en Edge Impulse la cual se migra al dispositivo y mediante PUTTY utilizamos el comando AT+RUNIMPULSE para empezar con la captación de datos. Finalmente se comprobó que la aplicación funciona correctamente para los comandos con más samples, ya que para otros se confundía y no distingue con mucha exactitud entre unos y otros.
 
 * ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
 
