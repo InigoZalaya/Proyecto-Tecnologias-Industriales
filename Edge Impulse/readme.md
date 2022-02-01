@@ -17,10 +17,10 @@ Se ha utilizado Edge-Impulse para crear la funcionalidad de reconocer comandos d
 *  Una vez conseguido el dataset, se empieza con el diseño del impulso. Un impulso toma los datos en bruto, utiliza el procesamiento de la señal para extraer características y, a continuación, utiliza un bloque de aprendizaje para clasificar los nuevos datos.
 La creación del impulso se puede dividir en tres pasos: primero establecer el tamaño de los datos procesados, en nuestro caso de 1000ms y la frecuencia de muestreo a 16kHz. El segundo paso serían los bloques MFCC de audio que extraen features y aplican parámetros de una señal de audio.
 
-* ##Los features creados son los siguientes:
+* ## Los features creados son los siguientes:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge3.png)
 
-* ##Una visualización de los samples es la siguiente:
+* ## Una visualización de los samples es la siguiente:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge2.png)
 
 * ### Crear la librería en Edge Impulse y migrarla al dispositivo
