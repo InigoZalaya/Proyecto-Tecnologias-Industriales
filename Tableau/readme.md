@@ -15,4 +15,4 @@ Utilizando estos datos se ha creado un Dashboard que se ha compartido en [Tablea
 
 También se han incluido las imagenes utilizadas en el Dashboard
 
-![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Dashboard.PNG)
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Tableau%20screenshot.png)
