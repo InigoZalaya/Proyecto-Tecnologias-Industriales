@@ -9,6 +9,9 @@ Node-Red es una herramienta de desarrollo basada en flujo para programación vis
 Se ha utilizado Node-Red para dos crear dos funcionalidades: primero para la adquisición, procesamiento y envío de comandos de vox
 
  ### El diseño del flujo [Node red](https://8tomf0.stackhero-network.com/admin/#flow/e5135e566cac99ad) creado desde el link de Moodle.
+ 
+ *  Primero se crea un flujo sencillo para empezar a simular valores de probabilidad para los comandos de voz. El primer nodo genera la estructura en formato *.json* con todos los datos de los comandos de voz, para luego ser procesados
+![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Captura.JPG)
 
  #### Se incluye la imagen del diseño del flujo y nodos.
 
