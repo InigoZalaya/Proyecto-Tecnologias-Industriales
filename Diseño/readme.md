@@ -14,5 +14,5 @@ Se pueden visualizar dichos diseños en la página de Sketchfab, en los siguient
 
 Por otra parte, se ha adjuntado los html de los diseños para poder visualizar mediante AR.js studio.
 
-* [Ascensor Goienkale](AR.js studio Aldapa-Ongarai.html)
-* [Ascensor Goienkale](AR.js studio Goienkale San Isidro.html)
+* [Ascensor Goienkale](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/AR.js%20studio%20Aldapa-Ongarai.html)
+* [Ascensor Goienkale](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/AR.js%20studio%20Goienkale%20San%20Isidro.html)
