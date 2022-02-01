@@ -4,7 +4,7 @@ Se quiere centralizar los datos ontenidos desde las distintas plataformas del pr
 
 ## Desarrollo
 
-Los comandos de voz se simulan con un periodo de 15 minutos a través de node-red ya que no se tienen datos en tiempo real desde los ascensores, entonces la subida de datos de los comandos de voz está automatizada a un excel en drive a través de node-red y desde ese excel se leen y analizan para luego analizar kpis en Tableau.
+Los comandos de voz se simulan con un periodo de 15 minutos a través de node-red ya que no se tienen datos en tiempo real desde los ascensores, entonces la subida de datos de los comandos de voz está automatizada a un excel en drive a través de node-red y desde ese excel se leen y analizan para luego analizar **kpis** en Tableau.
 
 * ### El [Excel](https://docs.google.com/spreadsheets/d/1DuhQhVBs4jBqO62ucJH18hLz-siLDMmFLaAkOy_AL4A/edit#gid=956814287) con los comandos de voz en Drive.
 
