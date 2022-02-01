@@ -6,7 +6,7 @@ Edge-Impulse es una plataforma de desarrollo para *Machine Leraning* en disposit
 
 ## Reconocimiento Comandos de Voz
 
-Se ha utilizado Edge-Impulse para crear la funcionalidad de reconocer comandos de voz introducidos mediante un sensor de audio. 
+Se ha utilizado Edge-Impulse para crear la funcionalidad de reconocer comandos de voz introducidos mediante un sensor de audio. Existe un [tutorial](https://docs.edgeimpulse.com/docs/responding-to-your-voice) disponible para esta aplicación. 
 
  ## El [proyecto creado](https://studio.edgeimpulse.com/public/65423/latest) a través de Edge Impulse.
  ### Los pasos seguidos en Edge Impulse son los siguientes
@@ -22,6 +22,11 @@ La creación del impulso se puede dividir en tres pasos: primero establecer el t
 
 * #### Una visualización de los samples es la siguiente:
 ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Edge%20Impulse/edge2.png)
+
+*  Como tercer paso, Con todos los datos procesados es hora de empezar a entrenar una red neuronal, *NN Classifier*. La red que estamos entrenando tomará el MFCC como entrada y tratará de asignarlo a una de las tres clases: la palabra clave, el ruido o lo desconocido. 
+
+* #### Como resultado de modell se consigue el siguiente rendimiento:
+![alt text]
 
 * ### Crear la librería en Edge Impulse y migrarla al dispositivo
 * ### Mediante PUTTY utilizar el comando: AT+RUNIMPULSE para empezar con la captación de datos 
