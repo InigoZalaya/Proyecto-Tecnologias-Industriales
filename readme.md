@@ -48,5 +48,5 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
      ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Tableau/Dashboard.PNG)
 
 * ### Desarrollo web.
-     Se ha creado una página web donde se puede observar todo lo realizado en el proyecto, tanto los distintos diseños CAD como las distintas plataformas que se han utilizado.
+     Se ha creado una [página web](https://inigozalaya.github.io/) donde se puede observar todo lo realizado en el proyecto, tanto los distintos diseños CAD como las distintas plataformas que se han utilizado.
      ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/PaginaWeb/WebPage%20screenshot.png?raw=true)
