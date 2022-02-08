@@ -38,7 +38,7 @@ Tal y como se ha comentado anteriormente, se han realizado diferentes tecnologí
      ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Dise%C3%B1o/Ascensores%203D.jpg)
 
 * ### Thingsboard
-     Mediante esta plataforma IoT se ha creado un Dashboard donde se muestran datos metereológicos en tiempo real de la ubicación de los ascensores de Ermua.
+     Mediante esta plataforma IoT se ha creado un [Dashboard](https://demo.thingsboard.io/dashboard/488534c0-5540-11ec-a53b-97baf75c7cfe?publicId=a8142020-553d-11ec-a53b-97baf75c7cfe) donde se muestran datos metereológicos en tiempo real de la ubicación de los ascensores de Ermua.
      
      ![alt text](https://github.com/InigoZalaya/Proyecto-Tecnologias-Industriales/blob/main/Thingsboard/tb.JPG)
 
